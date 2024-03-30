@@ -1,0 +1,16 @@
+Driver ID,Day,Weather Conditions,Delivery Area,Number of Packages,Time Taken (minutes)
+D001,1,Sunny,Urban,80,240
+D001,2,Rainy,Suburban,65,210
+D001,3,Cloudy,Rural,50,180
+D001,4,Sunny,Urban,90,260
+D001,5,Snowy,Suburban,75,220
+D002,1,Rainy,Urban,85,250
+D002,2,Cloudy,Suburban,70,230
+D002,3,Sunny,Rural,55,190
+D002,4,Rainy,Urban,95,270
+D002,5,Cloudy,Suburban,60,200
+D003,1,Snowy,Urban,70,220
+D003,2,Sunny,Suburban,55,190
+D003,3,Rainy,Rural,40,170
+D003,4,Cloudy,Urban,80,240
+D003,5,Sunny,Suburban,65,210
